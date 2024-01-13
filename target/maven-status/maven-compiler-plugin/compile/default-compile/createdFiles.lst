@@ -1,0 +1,14 @@
+com\mycompany\techemporium\entities\Product.class
+com\mycompany\techemporium\servlets\LogoutServlet.class
+com\mycompany\techemporium\dao\ProductDao.class
+com\mycompany\techemporium\helper\FactoryProvider.class
+com\mycompany\techemporium\servlets\RegisterServlet.class
+com\mycompany\techemporium\dao\UserDao.class
+com\mycompany\techemporium\servlets\LoginServlet.class
+com\mycompany\techemporium\entities\User.class
+com\mycompany\techemporium\JakartaRestConfiguration.class
+com\mycompany\techemporium\helper\Helper.class
+com\mycompany\techemporium\dao\CategoryDao.class
+com\mycompany\techemporium\resources\JakartaEE10Resource.class
+com\mycompany\techemporium\servlets\ProductOperationServlet.class
+com\mycompany\techemporium\entities\Category.class
